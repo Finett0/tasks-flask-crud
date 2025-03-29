@@ -8,7 +8,7 @@ Esta documentação descreve os endpoints e funcionalidades da API CRUD implemen
 
 - **Flask**: Framework utilizado para criar a aplicação.
 - **Model**: A classe `Task` representa a estrutura de uma tarefa.
-- **Dados Temporários**: As tarefas são armazenadas em uma lista `tasks`, e o controle de IDs é gerenciado pela variável global `task_id_control`.
+- **Dados Temporários**: As tarefas são armazenadas em uma lista `tasks`, e o controle de IDs é gerenciado pela variável global `task_id_control`
 
 ---
 
