@@ -1,6 +1,6 @@
 # Documentação da aplicação CRUD em Flask
 
-Esta documentação descreve os endpoints e funcionalidades da API Rest implementada em Flask. A API permite criar, visualizar, atualizar e excluir tarefas.
+Esta documentação descreve os endpoints e funcionalidades da API Rest implementada em Flask A API permite criar, visualizar, atualizar e excluir tarefas.
 
 ---
 
